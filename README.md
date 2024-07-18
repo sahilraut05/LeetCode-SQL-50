@@ -43,6 +43,7 @@ The repository is structured as follows:
 | 7   | [Product Sales Analysis I](07.LeetCode@1068_Product_Sales_Analysis_I/07.LeetCode@1068_Product_Sales_Analysis_I.md)                                                       | [Solution](07.LeetCode@1068_Product_Sales_Analysis_I/07.LeetCode@1068_Product_Sales_Analysis_I.sql) |
 | 8   | [Customer Who Visited but Did Not Make Any Transactions](08.LeetCode@1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions/08.LeetCode@1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.md)                                                       | [Solution](08.LeetCode@1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions/08.LeetCode@1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql) |
 | 9   | [Rising Temperature](09.LeetCode@197_Rising_Temperature/09.LeetCode@197_Rising_Temperature.md)                                                       | [Solution](09.LeetCode@197_Rising_Temperature/09.LeetCode@197_Rising_Temperature.sql) |
+| 10   | [Average Time of Process per Machine](10.LeetCode@1661_Average_Time_of_Process_per_Machine/10.LeetCode@1661_Average_Time_of_Process_per_Machine.md)                                                       | [Solution](10.LeetCode@1661_Average_Time_of_Process_per_Machine/10.LeetCode@1661_Average_Time_of_Process_per_Machine.sql) |
 
 
 
